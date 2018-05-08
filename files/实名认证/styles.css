@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:890px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,23 +12,23 @@
   position:absolute;
   z-index:0;
 }
-#u325_img {
+#u494_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:500px;
-  height:800px;
+  width:375px;
+  height:600px;
 }
-#u325 {
+#u494 {
   border-width:0px;
   position:absolute;
-  left:390px;
+  left:0px;
   top:0px;
-  width:500px;
-  height:800px;
+  width:375px;
+  height:600px;
 }
-#u325_text {
+#u494_text {
   border-width:0px;
   position:absolute;
   left:0px;
