@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1410px;
+  width:1160px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u219_img {
+#u406_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,15 +20,15 @@
   width:772px;
   height:592px;
 }
-#u219 {
+#u406 {
   border-width:0px;
   position:absolute;
-  left:638px;
-  top:343px;
+  left:388px;
+  top:0px;
   width:772px;
   height:592px;
 }
-#u219_text {
+#u406_text {
   border-width:0px;
   position:absolute;
   left:0px;
