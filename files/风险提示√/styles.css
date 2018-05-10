@@ -8,11 +8,15 @@
   margin-right:0;
   text-align:left;
 }
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
 #base {
   position:absolute;
   z-index:0;
 }
-#u366_img {
+#u370_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +24,7 @@
   width:375px;
   height:600px;
 }
-#u366 {
+#u370 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +32,7 @@
   width:375px;
   height:600px;
 }
-#u366_text {
+#u370_text {
   border-width:0px;
   position:absolute;
   left:0px;

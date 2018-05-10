@@ -8,27 +8,31 @@
   margin-right:0;
   text-align:left;
 }
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
 #base {
   position:absolute;
   z-index:0;
 }
-#u365_img {
+#u369_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
-  height:600px;
+  height:626px;
 }
-#u365 {
+#u369 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
-  height:600px;
+  height:626px;
 }
-#u365_text {
+#u369_text {
   border-width:0px;
   position:absolute;
   left:0px;
